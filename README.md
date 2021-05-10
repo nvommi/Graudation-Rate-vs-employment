@@ -1,11 +1,11 @@
-# Mini-Project-2
+# Graduation Rate Vs. Employment
 
 The problem I sought to investigate was regarding the high unemployment rate in Baltimore. The national unemployment rate is at about 4.7% while Baltimore is much higher at 7%. 
 
 
-https://www.mtsac.edu/president/cabinet-notes/2017-18/Economic_Impact_of_Increasing_College_Completion.pdf
+([Economic Impact of College](https://www.mtsac.edu/president/cabinet-notes/2017-18/Economic_Impact_of_Increasing_College_Completion.pdf)
 
-https://www.areavibes.com/baltimore-md/employment/
+[Baltimore employment](https://www.areavibes.com/baltimore-md/employment/)
 
 From this resulted the business question, How does the graduation rates of college and high school impact employment rate respectively? I utilized opportunity atlas to gain access to each of these data sets.
 https://www.opportunityatlas.org/
